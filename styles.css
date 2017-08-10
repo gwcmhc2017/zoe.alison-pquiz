@@ -1,0 +1,88 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #d0dff2;
+  margin: 0;
+  padding: 40px;
+}
+
+#Disney {
+  width: 350px;
+  display: block;
+  margin: auto;
+}
+
+.choices {
+  width: 50px;
+}
+
+.A {
+  width: 225px;
+}
+a {
+  color: #1929a0;
+}
+
+.highlighted {
+  background-color: #0d0d0d;
+  color: #66ff33;
+  padding: 2px;
+  font-family: monospace;
+}
+
+.title {
+  text-align: center;
+}
+
+.rounded {
+  border-radius: 50%;
+  width: 200px;
+  margin: 40px auto;
+  display: block;
+}
+p,
+h2 {
+  font-family: Pacifico;
+  font-size: 24px;
+}
+#list-title {
+  color: #37217a;
+}
+
+#Olaf,
+#mickey {
+  display: none;
+}
+
+#CS {
+  width: 300px;
+}
+
+#fiveScoop {
+  width: 238px;
+}
+
+#Mickey {
+  width: 300px;
+}
+
+#CI {
+  width: 225px;
+}
+#yyes {
+  width: 232px;
+}
+#submit {
+  width: 400px;
+  height: 75px;
+  font-size: 30px;
+  background-color: aqua;
+  font-family: Pacifico;
+}
+
+body {
+  background-color: HotPink;
+}
+
+#olaf {
+  width: 300px;
+}

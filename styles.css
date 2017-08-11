@@ -5,12 +5,19 @@ body {
   padding: 40px;
 }
 
+h1,
+h2 {
+  color: purple;
+}
 #Disney {
   width: 350px;
   display: block;
   margin: auto;
 }
 
+p {
+  color: purple;
+}
 .choices {
   width: 50px;
 }
